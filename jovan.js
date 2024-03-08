@@ -1,1 +1,1 @@
-console.log("ayo gelut")
+console.log("ayo ")
